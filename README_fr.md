@@ -1,4 +1,4 @@
-Lire dans une autre langue: [English](README.md), [Français](Readme_fr.md)
+Lire dans une autre langue: [English](README.md), [Français](README_fr.md)
 
 # Dodge the Creeps (with your Face)
 
