@@ -1,0 +1,4 @@
+mediapipe==0.8.9.1
+numpy==1.21.6
+opencv_contrib_python==4.5.5.64
+websockets==10.3
